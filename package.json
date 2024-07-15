@@ -1,6 +1,6 @@
 {
-  "name": "@contracts_v2_4",
-  "version": "2.4",
+  "name": "@goplugin/contracts_v2_4",
+  "version": "2.4.0",
   "description": "Plugin smart contracts",
   "author": "Plugin devs",
   "license": "MIT",
